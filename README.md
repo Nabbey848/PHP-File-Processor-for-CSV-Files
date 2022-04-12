@@ -11,3 +11,4 @@
 
 ## Dependencies
 1. PHP 5.4+
+2. Free Currency Converter API (https://free.currencyconverterapi.com/)
