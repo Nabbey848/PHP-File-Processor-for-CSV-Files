@@ -8,5 +8,5 @@
     * Cost
     * QTY
 
-##Dependencies
+## Dependencies
 1. PHP 5.4+
